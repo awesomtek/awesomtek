@@ -1,1 +1,1 @@
-# Do not read this user's status
+# Do not read this user's bio
